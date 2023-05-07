@@ -6,7 +6,7 @@ def task1():
 
      p1 = str(input("Введите пароль первый раз: "))
      p2 = str(input("Введите пароль второй раз: "))
-     if p1!=p2:
+     if p1!= p2:
           print("Пароль не принят!")
      else:
           print("Пароль принят!")
@@ -19,7 +19,7 @@ def task2():
      if placeNum < 37:
           print("Купе")
      else:
-          print("Боковое место")
+     print("Боковое место")
 
      if placeNum % 2==0:
           print("Верхнее место")
