@@ -7,7 +7,7 @@ def task1():
     from PIL import Image
 
     img = Image.open("2024.jpg")
-    img = img.crop((45, 45, img.width / 1, img.height / 1))
+    img = img.crop((45, 45, int(img.width / 1), int(img.height / 1)))
     img.save("2024_new.jpg")
 
 def task2():
