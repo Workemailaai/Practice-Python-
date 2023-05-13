@@ -2,7 +2,7 @@
 import json
 import os
 
-from Lab_12.components.Restaurant import Restaurant
+from lab_12.components.Restaurant import Restaurant
 
 
 class IceCreamStand(Restaurant):

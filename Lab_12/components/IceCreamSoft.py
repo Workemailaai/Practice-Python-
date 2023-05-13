@@ -1,4 +1,4 @@
-from Lab_12.components.IceCream import IceCream
+from lab_12.components.IceCream import IceCream
 
 
 class IceCreamSoft(IceCream):
