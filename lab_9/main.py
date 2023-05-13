@@ -1,4 +1,3 @@
-
 def task1():
 
     from PIL import Image, ImageFilter
@@ -9,14 +8,11 @@ def task1():
     Path('new_images').mkdir(parents=True, exist_ok=True)
 
     for file in filenames:
-        if file.suffix in ['.jpg', '.png']:git
+        if file.suffix in ['.jpg', '.png']:
             with Image.open(file) as img:
                 img.load()
-                new_img = img.filter()
+                new_img = img.filter(ImageFilter.CONTOUR)
                 new_img.save(Path("new_images", file))
-
-
-def task3():
 
     # Имеется файл с данными в формате csv:
     # Продукт,Количество,Цена
@@ -32,16 +28,18 @@ def task3():
     # Итоговая сумма: 800 руб.
 
 
-    import csv
-    from pathlib import Path
+def task3():
 
-    file = open("data.csv," "r")
-    data = list(csv.reader(file, delimiter=", "))
-    print("Нужно купить: ")
+    import csv
+
+    file = open("data.csv", "r", encoding='windows-1251')
+    data = list(csv.reader(file, delimiter=","))
+    print("Нужно купить:")
     for i in data:
         print(f"{i[0]} - {i[1]} шт. за {i[2]} руб.")
-    print(f"Итоговая сумма: {sum([int(i[1])*int(i[2]) for i in data])} руб.")
+    print(f"Итоговая сумма: {sum([int(i[1]) * int(i[2]) for i in data])} руб.")
     file.close()
+
 
 task1()
 task3()

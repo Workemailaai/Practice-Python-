@@ -1,0 +1,96 @@
+аббревиатура - Acronym
+адресат - Recipient
+алгоритм - An algorithm
+безопасность - Security, Safety
+бесполезный - Useless
+взаимодействие - Communicate, Interact
+взаимодействие между собой - Interact
+видение - Vision
+видимый - Visible
+входить - To enter
+выделение - Highlight
+гибкий диск - A floppy disk
+государство - State
+дискета - A floppy disk
+для хранения информации - To store information
+доступ - An access
+зависеть от - To depend on
+задача - A purpose
+заниматься - Deal with
+защита - Security
+защищать - To protect
+здравомыслящий - Sensible
+зрение - Vision
+избегать - To prevent
+иметь дело с - Deal with
+индетификация - Identification
+индефицировать - To identify
+карта памяти - A memory stick
+ковать - Forge
+компьютерные преступления - Computer crimes
+комфортный - Convenient
+конкретный - Particular
+контакт - Communicate
+конфиденциальный - Confidential
+ломать - To destroy
+наушники - Headphones
+находить - To discover
+непростой - Complicated
+обнаруживать - To discover
+оборудование - Equipment
+обрабатывать информацию - To handle information
+образ - Vision
+обслуживать - To maintain
+обсуждать - To discuss
+общение - Communicate
+определенный - Particular
+отвергать - To reject
+отгруженный - Shipped
+отклонить - To reject
+отправленный - Shipped
+отчетливый - Distinct
+периферийный - Peripherals
+повышать - To increase
+погружение - Immersion
+подача - Supply
+поддерживать - To maintain
+подтверждать - Confirm
+полезный - Useful
+получатель - Recipient
+получить доступ - To access
+поставка - Supply
+потребовать - To require
+предотвращать - To prevent
+привлекать - To attract
+прикреплять - Attach
+приложение - An appliance
+прокрутить - Scroll
+пролистать - Scroll
+псевдоним - Alias
+развлекать - Entertain
+разделенный - Separated
+разрушать - To destroy
+рассматривать - Consider
+режим - A mode
+связать - Connect
+секретный - Confidential
+сложный - Complicated
+соединяться - Connect
+сокращать - To decrease
+сокращение - Acronym
+сообщать - To report
+сообщить - To report
+состояние - Condition
+состояние чего либо - Condition
+сотрудники - Employees
+тайный - Confidential
+требовать - To require
+трудный - Complicated
+увеличивать - To increase
+удобный - Convenient
+уменьшать - To decrease
+уничтожать - To destroy
+устройство - A device
+цель - A purpose
+четкий - Distinct
+чувствительный - Sensitive

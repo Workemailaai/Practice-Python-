@@ -8,3 +8,7 @@
 - [x] [lab_6](lab_6)
 - [x] [lab_7](lab_7)
 - [x] [lab_8](lab_8)
+- [x] [lab_9](lab_9)
+- [x] [lab_10](lab_10) 
+- [x] [lab_11](lab_11)
+- [x] [lab_12](Lab_12)

@@ -19,7 +19,7 @@ def task2():
      if placeNum < 37:
           print("Купе")
      else:
-     print("Боковое место")
+          print("Боковое место")
 
      if placeNum % 2==0:
           print("Верхнее место")

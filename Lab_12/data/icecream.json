@@ -1,0 +1,59 @@
+{
+  "flavors": [
+    {
+      "name": "Шоколадное",
+      "available": true,
+      "alcohol": false
+    },
+    {
+      "name": "Клубничное",
+      "available": false,
+      "alcohol": false
+    },
+    {
+      "name": "Ванильное",
+      "available": true,
+      "alcohol": false
+    },
+    {
+      "name": "Фисташковое",
+      "available": true,
+      "alcohol": false
+    },
+    {
+      "name": "Малиновое",
+      "available": true,
+      "alcohol": false
+    },
+    {
+      "name": "Сливовое",
+      "available": false,
+      "alcohol": false
+    },
+    {
+      "name": "Винное",
+      "available": true,
+      "alcohol": true
+    },
+    {
+      "name": "Коньячное",
+      "available": true,
+      "alcohol": true
+    },
+    {
+      "name": "Карамельное",
+      "available": true,
+      "alcohol": false
+    },
+    {
+      "name": "Без сахара",
+      "available": true,
+      "alcohol": true
+    },
+    {
+      "name": "Мятное",
+      "available": true,
+      "alcohol": true
+    }
+  ]
+}
