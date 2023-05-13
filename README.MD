@@ -25,6 +25,6 @@
 - [x] [Лабораторная 12](lab_12)
 
 <p align="center">
-  <img src="lab_08/2024.jpg">
+  <img src="lab_08/2024_new.jpg">
   <br/>
 </p>
