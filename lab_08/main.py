@@ -10,7 +10,9 @@ def task1():
     img = img.crop((45, 45, int(img.width / 1), int(img.height / 1)))
     img.save("2024_new.jpg")
 
+
 def task2():
+
 
     # Создайте словарь, содержащий перечень пары «Название праздника – имя_файла с открыткой к нему».
     # Спросите у пользователя, к какому празднику ему нужна открытка и выведите нужную открытку на экран.
@@ -48,10 +50,10 @@ def task3():
     font = ImageFont.truetype("arial_bold.ttf", 70)
     draw_text = ImageDraw.Draw(img)
     draw_text.text(
-    (img.width // 3.3, 350),
-    name + ", поздравляю ",
-    font=font,
-    fill=('pink')
+        (img.width // 3.3, 350),
+        name + ", поздравляю ",
+        font=font,
+        fill='pink'
     )
     img.show()
     img.save(name + "_postcard.png")
